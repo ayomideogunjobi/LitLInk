@@ -1,0 +1,22 @@
+.home {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.suggested-books {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.suggested-books h6{
+    font-size: 18px;
+    text-align: left;
+}
+
+.suggested-books p{
+    text-align: left;
+    font-size: 16px;
+    font-style: italic;
+}
+
+
+
